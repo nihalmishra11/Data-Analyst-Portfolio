@@ -23,6 +23,6 @@ Aspiring Data Analyst with hands-on project experience in Excel, SQL, and busine
 - SQL (MySQL): SELECT, GROUP BY, CASE WHEN, Aggregates, Filters
 - Documentation & Reporting for real-world business use
 
----
 
-📄 See the attached PDF for a written summary: `Data_Analyst_Project_Summary_Weeks1_3.pdf`
+
+
